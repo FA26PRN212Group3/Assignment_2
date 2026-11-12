@@ -1,0 +1,14 @@
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\bin\Debug\net8.0\PRN212.DependencyInjection.exe
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\bin\Debug\net8.0\PRN212.DependencyInjection.deps.json
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\bin\Debug\net8.0\PRN212.DependencyInjection.runtimeconfig.json
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\bin\Debug\net8.0\PRN212.DependencyInjection.dll
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\bin\Debug\net8.0\PRN212.DependencyInjection.pdb
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\obj\Debug\net8.0\PRN212.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\obj\Debug\net8.0\PRN212.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\obj\Debug\net8.0\PRN212.DependencyInjection.AssemblyInfo.cs
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\obj\Debug\net8.0\PRN212.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\obj\Debug\net8.0\PRN212.DependencyInjection.dll
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\obj\Debug\net8.0\refint\PRN212.DependencyInjection.dll
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\obj\Debug\net8.0\PRN212.DependencyInjection.pdb
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\obj\Debug\net8.0\PRN212.DependencyInjection.genruntimeconfig.cache
+C:\Users\Kevtop\source\repos\Sesion06-Database\PRN212_GroupAssignment2\PRN212.DependencyInjection\obj\Debug\net8.0\ref\PRN212.DependencyInjection.dll
